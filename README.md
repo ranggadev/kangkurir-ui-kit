@@ -1,4 +1,4 @@
-# KangKurir UI Kit Using Flutter by Rangga Saputra
+# KangKurir UI Kit Using Flutter by Rangga Saputra (@rangga.dev)
 
 - Flutter Developer : https://www.instagram.com/rangga.dev/
 - UI/UX Designer KangKurir App : https://www.instagram.com/_alvian.design/
@@ -21,6 +21,7 @@ Ikuti akun-akun saya :
 - Personal Website : https://ranggasaputra.my.id/
 - Github : https://github.com/ranggadev
 - LinkedIn : https://www.linkedin.com/in/ranggadev/
+- Youtube : https://www.youtube.com/c/IndoFlutter
 - Personal IG : https://www.instagram.com/rangga.dev/
 
 Terima Kasih.
