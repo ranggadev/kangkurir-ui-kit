@@ -1,6 +1,6 @@
-# Gojek Apps UI Clone to be IndoJek Apps by Rangga Saputra
+# KangKurir UI Kit by Rangga Saputra
 
-This application is a Gojek clone using Flutter.
+This application is a KangKurir UI Kit using Flutter.
 
 ## UI:
-![IndoFlutter Thumbnails](https://user-images.githubusercontent.com/34878649/132085761-27f79355-ae01-49f3-ba16-0636e8183a9e.png)
+![#Thumbnail](https://user-images.githubusercontent.com/34878649/151729171-0ed764c1-e29a-4c8d-9c85-19886d6c21c6.png)
